@@ -4,13 +4,10 @@
 - 🌱 I’m currently learning React js, Design Patterns and how to make your project attractive.
 - 💞️ I’m looking to collaborate with anyone who needs help in my specialty.
 - 📫 How to reach me 
-Email: azad-kh@outlook.com
-Linked IN: https://www.linkedin.com/in/azadalketaan
-WhatsApp: +963994274555
-Facebook: https://www.facebook.com/azadalketaan
-
-
-<img src="facebook_icon.svg" alt="Italian Trulli">
+<img src="outlook_icon.svg" width="25" height="30" src="azad-kh@outlook.com">
+<img src="linkedin_icon.svg" width="25" height="30" src="https://www.linkedin.com/in/azadalketaan">
+<img src="whatsapp_icon.svg" width="25" height="30" src="https://wa.me/963994274555">
+<img src="facebook_icon.svg" width="25" height="30" src="https://www.facebook.com/azadalketaan">
 
 <!---
 AzadAlketaan/AzadAlketaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -9,6 +9,9 @@ Linked IN: https://www.linkedin.com/in/azadalketaan
 WhatsApp: +963994274555
 Facebook: https://www.facebook.com/azadalketaan
 
+
+<img src="facebook_icon.svg" alt="Italian Trulli">
+
 <!---
 AzadAlketaan/AzadAlketaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

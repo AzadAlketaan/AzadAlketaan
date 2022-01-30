@@ -3,7 +3,7 @@
 - 👀 I’m interested in Algorithm Coding and Data Structure 💙💙💙
 - 🌱 I’m currently learning React js, Design Patterns and how to make your project attractive.
 - 💞️ I’m looking to collaborate with anyone who needs help in my specialty.
-- My Resume: <a href="Azad Alketaan CV.pdf" download="Azad Alketaan CV" target="_blank">
+- My Resume: <a href="https://drive.google.com/file/d/1kor9itS3lbHIvN1hh7IVG53KJzxkzoYw/view?usp=sharing" download target="_blank">
    <img src="resume.png" width="25" height="25">&nbsp;
 </a>
 📫 How to reach me <br>

@@ -1,5 +1,5 @@
    # Hi, I am AzadAlketaan ✋
-   ## I am Software Engineer, Full-Stack Developer 💪💪💪
+   ## I am Software Engineer, Full-Stack Developer and Freelancer 💪💪💪
 - 👀 I’m interested in Algorithm Coding and Data Structure 💙💙💙
 - 🌱 I’m currently learning React js, Design Patterns and how to make your project attractive.
 - 💞️ I’m looking to collaborate with anyone who needs help in my specialty.
@@ -12,6 +12,13 @@
   <img src="whatsapp_icon.svg" width="25" height="30">&nbsp;
 </a><a href="https://www.facebook.com/azadalketaan">
   <img src="facebook_icon.svg" width="25" height="30">&nbsp;
+</a>
+- My Resume: <a href="Azad Alketaan CV.pdf">
+  <img src="resume.svg" width="25" height="30">&nbsp; My Resume
+</a>
+
+- My Resume: <a href="Azad Alketaan CV.pdf">
+  <img src="resume.png" width="25" height="30">&nbsp; My Resume
 </a>
 <!---
 AzadAlketaan/AzadAlketaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

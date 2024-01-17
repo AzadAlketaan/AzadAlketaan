@@ -4,25 +4,32 @@
 ## Here are some of my highlights:
 
 🎓 I have a degree in the Faculty of Informatics Engineering (I.T.E), Specializing in Software Engineering, and have been coding since my undergraduate years.
+<br>
 💻 I have extensive experience with languages and frameworks like Laravel PHP, Node.js, and JavaScript, as well as front-end frameworks like React and Vue.JS.
+<br>
 🛠️ I am skilled in utilizing databases like MongoDB, PostgreSQL, and MySQL for efficient data storage and retrieval.
+<br>
 ☁️ I am familiar with cloud platforms like AWS, Google Cloud, and Azure for deployment and scaling of web applications.
+<br>
 🤝 I believe in collaborating with others to create high-quality software, which is why I have a strong passion for open-source development.
 
 ## Some of my projects include:
 
 🌐 Awesome Portfolio: A user-friendly web application that showcases my projects and expertise in a visually appealing manner.
+<br>
 🛒 E-Commerce Store: A fully functional e-commerce store that allows users to browse products, add items to their cart, and complete their purchases.
+<br>
 🌱 GreenApp: An application that promotes environmentally-friendly practices by providing users with information on recycling, reducing energy consumption, and sustainable transportation options.
 
 👀 If you are looking for a highly skilled Full-Stack web developer who will be a valuable asset to your team, do not hesitate to get in touch with me.
 
 ## I am excited to embark on new projects and help your company grow.
 
-- ## My Resume: <a href="https://drive.google.com/file/d/1FiKv5dCBx8PiOGQMR8QvnSNgjgrZt7Ms/view?usp=sharing" download target="_blank">
+## How to reach me
+- My Resume: <a href="https://drive.google.com/file/d/1FiKv5dCBx8PiOGQMR8QvnSNgjgrZt7Ms/view?usp=sharing" download target="_blank">
    <img src="resume.png" width="25" height="25">&nbsp;
 </a>
-📫 ## How to reach me <br>
+📫 My Accounts:<br>
 &nbsp;&nbsp;<a href="azad-kh@outlook.com">
   <img src="outlook_icon.svg" width="25" height="30">&nbsp;
 </a><a href="https://www.linkedin.com/in/azadalketaan">

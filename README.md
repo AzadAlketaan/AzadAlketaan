@@ -3,7 +3,7 @@
 - 👀 I’m interested in Algorithm Coding and Data Structure 💙💙💙
 - 🌱 I’m currently learning React js, Design Patterns and how to make your project attractive.
 - 💞️ I’m looking to collaborate with anyone who needs help in my specialty.
-- My Resume: <a href="https://drive.google.com/file/d/1UoZVkPeyLtb6eEOVo4PIgeIsASg-zHG0/view?usp=drivesdk" download target="_blank">
+- My Resume: <a href="https://drive.google.com/file/d/1FiKv5dCBx8PiOGQMR8QvnSNgjgrZt7Ms/view?usp=sharing" download target="_blank">
    <img src="resume.png" width="25" height="25">&nbsp;
 </a>
 📫 How to reach me <br>

@@ -26,7 +26,7 @@
 ## I am excited to embark on new projects and help your company grow.
 
 ## How to reach me
-- My Resume: <a href="https://drive.google.com/file/d/1FiKv5dCBx8PiOGQMR8QvnSNgjgrZt7Ms/view?usp=sharing" download target="_blank">
+- My Resume: <a href="https://drive.google.com/file/d/1-g2F0nXY7h7OHagcJQGtR-M0y9W3asUk/view?usp=sharing" download target="_blank">
    <img src="resume.png" width="25" height="25">&nbsp;
 </a>
 📫 My Accounts:<br>

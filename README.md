@@ -1,94 +1,79 @@
 # 👋 Hi, I'm **Azad Aghyad Alketaan**
 
-### **Senior Full-Stack Engineer | Backend Architect | System Design Enthusiast**
+### **Senior Backend Engineer | Distributed Systems & High-Availability Platforms**
 
-I’m a Senior Full-Stack Engineer with **8+ years of experience** building scalable, high-availability web applications and distributed backend systems. My expertise spans **Laravel, PHP, Node.js, Vue.js, React, PostgreSQL, Redis**, and modern cloud-native ecosystems.
+Senior Backend Engineer with **8+ years of experience** designing and delivering **scalable, high-availability backend systems** for international companies.  
+Specialized in **Laravel, PHP, PostgreSQL, Redis**, and **microservices-based architectures** running in modern cloud environments.
 
-I specialize in designing **clean, scalable, and fault-tolerant architectures**, applying practices like the **C4 Model**, domain-driven thinking, performance optimization, caching strategies, and microservice-friendly design. I have delivered production-grade solutions for international companies, focusing on system reliability, maintainability, and performance.
+Strong background in **distributed systems**, **system design (C4 Model)**, performance optimization, caching strategies, and building **fault-tolerant, production-ready platforms**. Passionate about clean architecture, system reliability, and long-term maintainability.
 
 ---
 
 ## 🧩 **What I Do**
 
-### **⚙️ Backend Engineering**
-
-- Laravel, PHP, Node.js
-- REST APIs, Microservices, Service Architecture
+### ⚙️ **Backend Engineering**
+- Laravel, PHP, Node.js (basic)
+- REST APIs, Microservices, Service-Oriented Architecture
 - Redis, Queues, WebSockets, Rate Limiting
 - Load Balancing, Clustering, High Availability
 - Distributed Logging, Monitoring, Observability
 
-### **🖥️ Full-Stack Development**
-
-- Vue.js, React, JavaScript
-- Modular component design & scalable UI development
-
-### **☁️ DevOps & Cloud**
-
+### ☁️ **DevOps & Cloud**
 - Docker, GitLab CI/CD
-- Azure, containerized workflows
-- Automated deployments, performance tracking
+- Azure & containerized workflows
+- Automated deployments, system reliability, performance monitoring
 
-### **📐 System Architecture**
-
+### 📐 **System Architecture**
 - C4 Model for system design & documentation
-- Scalable service boundaries & distributed systems
-- High-performance, high-availability architecture
+- Distributed systems & scalable service boundaries
+- High-performance, fault-tolerant backend architectures
 
 ---
 
-## 🚀 **Recent Roles**
+## 🚀 **Professional Experience (Highlights)**
 
-**🔹 Senior Full-Stack Engineer | Majarra (UAE, Remote)**
+### 🔹 Senior Backend Engineer | **Majarra** (UAE, Remote)
+Designed and optimized **high-availability backend platforms**, implemented **microservices architectures**, Redis caching, queues, load balancing, and improved system performance and reliability for high-traffic products.
 
-Designed and optimized backend architectures, implemented load balancing, Redis caching, and clustering, and improved system reliability and performance for high-traffic platforms.
-
-**🔹 Senior Full-Stack Engineer | Majarra & Technocode (UAE, Remote)**
-
-Built and optimized large-scale Laravel platforms, improved performance by 30%+, and delivered full-stack features used by thousands of active users.
+### 🔹 Senior Full-Stack Engineer | **Technocode** (UAE, Remote)
+Built scalable backend services with Laravel, PHP, Node.js, and Redis. Improved system performance, documented architectures using the **C4 Model**, and enhanced CI/CD pipelines.
 
 ---
 
-## 🛠️ **Featured Projects**
+## 🛠️ **Selected Projects**
 
-### **Majarra Platform – Digital Content Ecosystem** | [Majarra Platform](https://my.majarra.com/)
+### **Majarra Platform – Digital Content Ecosystem**
+Architected backend systems using the **C4 Model**, implemented load balancing, Redis caching, clustering, and performance optimizations for large-scale platforms.
 
-Architected backend using the C4 Model, implemented load balancing, Redis caching, clustering, and performance improvements.
+### **MyFreelancer – Freelance Marketplace**
+Designed backend workflows with clean architecture principles; integrated Redis queues and caching for reliability and scalability.
 
-### **MyFreelancer – Freelance Marketplace** | [MyFreelancer](https://myfreelancer.com/)
+### **TaskIT – Task & Project Management System (Internal)**
+Built end-to-end task management with planning, tracking, scheduling, notifications, and real-time updates.
 
-Designed backend workflows using C4 modeling and clean architecture; integrated Redis queues and caching.
+### **Syriatel Direct Debit – Automated Billing System (Internal)**
+Developed a direct debit platform integrated with multiple banks, automating invoicing and reconciliation workflows.
 
-### **TaskIT – Task & Project Management System** | (Internal System)
-
-Built end-to-end task management (planning, tracking, scheduling, notifications) with real-time updates and reliable state transitions.
-
-### **Syriatel Direct Debit – Automated Billing System** | (Internal System)
-
-Developed direct debit system integrated with multiple banks; automated invoicing and reconciliation workflows.
-
-### **Multi-Channel Notification System (DLL)** | (Internal System)
-
-Built a high-performance notification framework supporting email, SMS, push, and webhooks.
+### **Multi-Channel Notification System (Internal)**
+Built a high-performance notification framework supporting email, SMS, push notifications, and webhooks.
 
 ---
 
-## 📊 **Tech Stack**
+## 🧰 **Tech Stack**
 
 - **Languages:** PHP, JavaScript, SQL
 - **Frameworks:** Laravel, Node.js, Vue.js, React
 - **Databases:** PostgreSQL, MySQL, Redis, Oracle PL/SQL
-- **Tools:** Docker, GitLab CI/CD, Azure
-- **Architecture:** C4 Model, Distributed Systems, Microservices, Load Balancers
-- **Other:** Caching, Queues, WebSockets, Performance Optimization, System Monitoring
+- **DevOps:** Docker, GitLab CI/CD, Azure
+- **Architecture:** Distributed Systems, Microservices, C4 Model, Load Balancers
+- **Other:** Caching, Queues, WebSockets, Performance Optimization, Monitoring
 
 ---
 
-## 🌱 **What I'm Currently Working On**
-
-- Improving system observability with distributed logging
-- Building scalable backend services following clean architecture
-- Designing systems using the C4 Model for clarity & maintainability
+## 🌱 **Currently Focused On**
+- Designing scalable backend platforms with high availability
+- Improving observability using distributed logging and monitoring
+- Applying clean architecture and C4 modeling for long-term maintainability
 
 ---
 
@@ -96,8 +81,7 @@ Built a high-performance notification framework supporting email, SMS, push, and
 
 - **Email:** [azad-kh@outlook.com](mailto:azad-kh@outlook.com)
 - **LinkedIn:** [linkedin.com/in/azadalketaan](https://linkedin.com/in/azadalketaan)
-- **Resume:** [View Resume](https://drive.google.com/file/d/1jXBNIVTM6JnOwERCMywutkEyyE9RaNp-/view?usp=drivesdk)
-
+- **Resume:** Available upon request
 ---
 
 ## ⭐ **Fun Fact**
